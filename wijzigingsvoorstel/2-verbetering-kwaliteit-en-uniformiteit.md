@@ -67,6 +67,8 @@ terugwerkende kracht in een periode van 12 maanden aangepast door:
 Onderstaande viewer toont het aantal objecten per bronhouder dat moet worden
 aangepast op de nieuwe afbakeningsregel.
 
+<iframe src="http://85.214.237.242/test/imgeo22/?categorie=berm"></iframe>
+
 Afbakening van boomspiegels en ander klein stedelijk groen 
 -----------------------------------------------------------
 
