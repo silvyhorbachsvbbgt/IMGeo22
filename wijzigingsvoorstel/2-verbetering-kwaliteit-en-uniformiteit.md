@@ -16,9 +16,9 @@ Afbakening van bermen tot maximaal 25 meter vanaf het wegdeel
 
 **Voor wie doen we dit, en wat levert dit voorstel op?**
 
-**Kwalitatief:**
+Kwalitatief:
 
-**Kwantitatief:**
+Kwantitatief:
 
 **Wat als we dit niet doen?**
 
