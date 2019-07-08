@@ -9,7 +9,7 @@ var respecConfig = {
       companyURL: "http://www.geonovum.nl/",
       mailto: "a.deboer@geonovum.nl",
       note: ""    
-    },   
+    },   	
     {
       name: "Silvy Horbach",
       company: "SVB-BGT",
@@ -34,7 +34,7 @@ var respecConfig = {
   ],
   //shortName: "shortname",
   pubDomain: "https://www.geonovum.nl",
-  github: "https://github.com/Geonovm/IMGeo2018",
+  github: "https://github.com/Geonovm/IMGeo22",
   //previousPublishDate: "2018-06-01",
  // previousStatus: "GN-CV",
   //localBiblio: {
