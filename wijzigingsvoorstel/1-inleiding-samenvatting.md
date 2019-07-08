@@ -14,7 +14,7 @@ Om te voorzien in, worden de volgende wijzigingen voorgesteld:
 
 -   In ontwerpprincipes ToDo…
 
--   .
+-   ToDo
 
 De wijzigingen leveren de volgende voordelen op:
 
@@ -22,7 +22,7 @@ De wijzigingen leveren de volgende voordelen op:
 
 -   Eenmalig inwinnen, meervoudig gebruik.
 
--   .
+-   ToDo
 
 ### Impact en implementatie
 
