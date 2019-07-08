@@ -1,6 +1,6 @@
 var respecConfig = {
   specStatus: "GN-WV",
-  specType: "HR",
+  specType: "IM",
   //canonicalURI: "WV",  
   editors: [
     {
