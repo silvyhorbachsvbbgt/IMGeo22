@@ -1,8 +1,10 @@
-Inleiding
-=========
+# Inleiding
 
-Samenvatting IMGeo 2.2
-----------------------
+ToDo
+
+## Samenvatting IMGeo 2.2
+
+ToDo
 
 ### Huidige situatie en probleem
 
