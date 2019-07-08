@@ -7,29 +7,25 @@ var respecConfig = {
       name: "Arnoud de Boer",
       company: "Geonovum",
       companyURL: "http://www.geonovum.nl/",
-      mailto: "a.deboer@geonovum.nl",
-      note: ""    
+      mailto: "a.deboer@geonovum.nl" 
     },   	
     {
       name: "Silvy Horbach",
       company: "SVB-BGT",
       companyURL: "http://www.svbbgt.nl/",
-      mailto: "silvyhorbach@svb-bgt.nl",
-      note: ""    
+      mailto: "silvyhorbach@svb-bgt.nl" 
     },
 	{
       name: "Arman Alavi",
       company: "Ministerie BZK",
       companyURL: "http://www.geobasisregistraties.nl/",
-      mailto: "arman@minbzk.nl",
-      note: ""    
+      mailto: "arman@minbzk.nl"
     },
-	{
+    {
       name: "Gerlof Haan",
       company: "VNG Realisatie",
       companyURL: "http://www.vng.nl/",
-      mailto: "gerlof@vng.nl",
-      note: ""    
+      mailto: "gerlof@vng.nl"
     }
   ],
   //shortName: "shortname",
