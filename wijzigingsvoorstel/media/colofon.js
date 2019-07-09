@@ -1,6 +1,6 @@
 var respecConfig = {
-  specStatus: "GN-VV",
-  specType: "IM",
+  specStatus: "GN-WV",
+  specType: "HR",
   //canonicalURI: "WV",  
   editors: [
     {
@@ -9,15 +9,7 @@ var respecConfig = {
       companyURL: "http://www.geonovum.nl/",
       mailto: "a.deboer@geonovum.nl",
       note: ""    
-    },  
-    {
-      name: "Silvy Horbach",
-      company: "SVB-BGT",
-      companyURL: "http://www.svbbgt.nl/",
-      mailto: "silvyhorbach@svb-bgt.nl",
-      note: ""    
-    },
-  ],
+    }  ],
   //shortName: "shortname",
   pubDomain: "https://www.geonovum.nl",
   github: "https://github.com/Geonovm/IMGeo22",
