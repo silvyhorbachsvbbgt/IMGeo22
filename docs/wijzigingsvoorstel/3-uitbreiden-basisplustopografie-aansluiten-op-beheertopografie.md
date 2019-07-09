@@ -1,8 +1,5 @@
-Uitbreiden
-==========
-
-Basis/plustopografie aansluiten op beheertopografie
----------------------------------------------------
+betere aansluiting basis/plustopografie en beheertopografie
+-----------------------------------------------------------
 
 ### Huidige situatie en probleem
 
@@ -11,48 +8,44 @@ In de BGT of IMGeo kunnen
 Deze classificaties voorzien niet in alle wegen, terreinen, bouwwerken,
 kunstwerken, en andere objecten die in beheer zijn bij overheidsorganisatie. De
 basis- en plustopografie van IMGeo sluit hierdoor niet volledig aan op de
-beheertopografie.
+beheertopografie. Als gevolg hiervan kunnen organisaties niet of moeilijk
+overgaan op een integrale beheerkaart gekoppeld aan de topografie van IMGeo.
 
-Als gevolg hiervan kunnen organisaties niet of moeilijk overgaan op een
-integrale beheerkaart gekoppeld aan de topografie van IMGeo.
+Samen met bronhouders, softwareleveranciers van BOR-afnemers en BGT-bronhouders,
+en CROW is een lijst opgesteld met nieuw classificaties voor IMGeo voor betere
+aansluiting van basis/plustopografie op beheertopografie. Veel nieuwe
+classificaties komen vanuit Informatiemodel Beheer Openbare Ruimte (IMBOR), dat
+door CROW wordt ontwikkelt voor de standaardisatie van beheergegevens binnen de
+overheid.
+
+IMBOR is een sectormodel op IMGeo, wat betekent dat in IMBOR gegevens worden
+toegevoegd aan de basis- en plustopografie in IMGeo. In de huidige situatie
+(IMGeo 2.1.1) sluit IMBOR voor 40 tot 50% aan op IMGeo. Het streven is
+uiteindelijk 100% te bereiken.
 
 ### Oplossing en nut
 
-Om te voorzien in de informatiebehoefte vanuit beheer openbare ruimte en
-hulpdiensten voor inritten en toegangswegen naar percelen en erven, worden de
-volgende wijzigingen voorgesteld:
+Om een goede aansluiting te maken tussen basis/plustopografie (IMGeo) en
+beheertopografie, worden de volgende wijzigingen voorgesteld:
 
--   In de definitie van ‘inrit’ wordt de term afgelegen geschrapt. Onder inrit
-    worden verstaan alle toegangswegen, oprijlanen en dergelijke met een
-    verkeersfunctie die leiden naar erven en terreinen.
+-   Totaal 50 subclassificaties worden toegevoegd aan IMGeo-objecten.
 
 -   In de BGT moet elke toegangsweg naar een perceel of erf meer dan 25 meter
     vanaf de weg gelegen worden opgenomen als inrit van wegdeel .
 
--   In IMGeo mag een toegangsweg naar een perceel of erf korter dan 25 meter
-    vanaf de weg gelegen worden opgenomen als inrit van een wegdeel.
-
 De wijzigingen leveren de volgende voordelen op:
 
--   Bronhouders kunnen sneller overgaan op een integrale beheerkaart omdat de
+-   Met het toevoegen en hernoemen van classificatie in IMGeo wordt bereikt dat
+    de aansluiting van beheertopografie (IMBOR) op basis/plustopografie
+    verbeterd van 40-50% (IMGeo 2.1.1) naar 90-95% (IMGeo 2.2). Bronhouders
+    kunnen sneller overgaan op een integrale beheerkaart omdat de
     basis/plustopografie van IMGeo beter aansluit op de behoefte vanuit
-    beheer(topografie). Vanuit beheer is behoefte aan informatie over korte
-    inritten en met het aanpassen van de definitie kunnen alle inritten worden
-    opgenomen in IMGeo.
-
--   De dienstverlening van hulpdiensten verbeterd, omdat met de nieuwe definitie
-    alle toegangen tot erven en terrein in IMGeo mogen worden opgenomen.
-    Hulpdiensten hebben meer informatie over de bereikbaarheid en toegang van
-    erven en terreinen, waardoor deze sneller ter plaatse kunnen zijn.
-
--   Door de keuze-/interpretatieruimte voor afbakening en classificatie van
-    inritten in te perken, kunnen bestekken worden geüniformeerd en kunnen
-    bronhouders beter samenwerken in de inwinning en bijhouding van de BGT.
+    beheer(topografie).
 
 ### Impact en implementatie
 
-De impact van dit voorstel is nul: alle gegevens zijn beschikbaar in de BGT en
-de software is reeds voorbereid. Voor de implementatie mag data worden
+De impact van dit voorstel is beperkt: alle gegevens zijn beschikbaar in de BGT
+en de software is reeds voorbereid. Voor de implementatie mag data worden
 toegevoegd.
 
 Er is geen implementatieadvies voor inritten. Aan bronhouders wordt niet
