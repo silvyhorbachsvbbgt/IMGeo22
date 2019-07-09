@@ -14,18 +14,17 @@ In de BGT worden
 
 Om te voorzien in, worden de volgende wijzigingen voorgesteld:
 
--   In ontwerpprincipes ToDo…
+In ontwerpprincipes ToDo…
 
--   ToDo
+ToDo
 
 De wijzigingen leveren de volgende voordelen op:
 
--   Integrale beheerkaart, omdat ToDo…
+Integrale beheerkaart, omdat ToDo…
+Eenmalig inwinnen, meervoudig gebruik.
 
--   Eenmalig inwinnen, meervoudig gebruik.
-
--   ToDo
+ToDo
 
 ### Impact en implementatie
 
-De impact van IMGeo 2.2 is relatief laag:
+De impact van IMGeo 2.2 is relatief laag

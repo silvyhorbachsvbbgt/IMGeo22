@@ -1,9 +1,9 @@
-Uniformeren
-===========
+# Uniformeren
+test
 
-Bermen, oevers en andere (on)begroeide terreinen
-------------------------------------------------
+## Bermen, oevers en andere (on)begroeide terreinen
 
+Dit is het voorstel voor bermen, oevers en
 ### Huidige situatie en probleem
 
 In de BGT kan een stuk terrein met gras worden afgebakend als berm, oever of

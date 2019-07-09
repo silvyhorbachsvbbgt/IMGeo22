@@ -92,7 +92,7 @@ Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht alle **boomspiegels** om te zetten van
 Weginrichtingselement naar BegroeidTerreindeel.
 
-<http://85.214.237.242/test/imgeo22/?categorie=vervallen-boomspiegel>
+<iframe src="http://85.214.237.242/test/imgeo22/?categorie=vervallen-boomspiegel" width"800px" height="400px"></frame>
 
 De boomspiegels worden eventueel van punt- naar vlakgeometrie omgezet, en
 krijgen een nieuwe identificatie, omdat deze bij een andere objectklasse worden
