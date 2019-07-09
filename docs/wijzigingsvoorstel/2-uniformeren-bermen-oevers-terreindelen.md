@@ -99,9 +99,9 @@ De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 
 *Samenvatting implementatie bermen*
 
-| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />           | 
-|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|----------------------------------------|
-| Software aanpassen aan nieuwe classificaties | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatietijd van 600 uur      | Doorlootijd implementatie van 1,5 jaar |
+| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software aanpassen aan nieuwe classificaties | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost 225 tot 450 uur | Doorlooptijd van 1,5 jaar     |
 
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elk (on)begroeid
 terreindeel direct grenzend aan water en op talud te beoordelen of deze conform
