@@ -99,9 +99,9 @@ De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 
 *Samenvatting implementatie bermen*
 
-| <icon1B />                                   | <icon2A />          | <icon3A />                                 | <icon4A />                             | <icon5 />                                 |   |   |   |   |   |
-|----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|---|---|---|---|
-| Software aanpassen aan nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
+| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="terugwerkende-kracht" />                     | <icon class="tijd-geld" />             | <icon class="doorlooptijd" />   
+|----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|------------------------------|
+| Software aanpassen aan nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlo6\>ptijd implementatie van 1,5 jaar | Doorlootijd implementatie van 1,5 jaar  |
 
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elk (on)begroeid
 terreindeel direct grenzend aan water en op talud te beoordelen of deze conform
