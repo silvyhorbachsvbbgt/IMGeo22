@@ -12,6 +12,15 @@ blockquote {
  border-style: none !important;
 }
 
+iframe .view {
+	
+	width: 802px;
+	height: 402px;
+	margin: 0;
+	overflow: hidden;
+	
+	
+}
 /*blockquote:before {
     display: block;
     height: 0;
