@@ -53,11 +53,12 @@ img {
 
 
 icon {
+	margin: 0;
 	width: 96px;
 	height: 96px;
-    display: inline-block;
+	
 	background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 96px 96px;
 }
 
 .software-voldoet {
