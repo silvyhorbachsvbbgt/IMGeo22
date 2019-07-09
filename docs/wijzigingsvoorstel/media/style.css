@@ -53,8 +53,9 @@ img {
 
 
 icon {
-	width: 128px;
-	height: 128px;
+	margin: 20px;
+	width: 96px;
+	height: 96px;
     display: inline-block;
 	background-repeat: no-repeat;
     background-size: auto;
