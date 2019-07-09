@@ -92,7 +92,7 @@ de implementatie wordt alleen de data aangepast.
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elke **berm** breder
 dan 25 meter te splitsen in een berm en terreindeel.
 
-<iframe src="http://85.214.237.242/test/imgeo22/?categorie=berm" width=800px height=400px></iframe>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?categorie=berm" width=800px height=400px></iframe>
 
 De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 (on)begroeide terreindelen krijgen een eigen identificatie.
