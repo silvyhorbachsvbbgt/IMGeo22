@@ -92,14 +92,14 @@ de implementatie wordt alleen de data aangepast.
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elke **berm** breder
 dan 25 meter te splitsen in een berm en terreindeel.
 
-<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=berm" width=800px height=400px></iframe>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=berm" class="view"></iframe>
 
 De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 (on)begroeide terreindelen krijgen een eigen identificatie.
 
 *Samenvatting implementatie bermen*
 
-| \<icon1B\>                                   | \<icon2A\>          | \<icon3A\>                                 | \<icon4A\>                             | \<icon5\>                                 |   |   |   |   |   |
+| <icon1B />                                   | <icon2A />          | <icon3A />                                 | <icon4A />                             | <icon5 />                                 |   |   |   |   |   |
 |----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|---|---|---|---|
 | Software aanpassen aan nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
 
@@ -121,68 +121,7 @@ opsporen en afbakenen van terreinen langs water die voldoen aan de
 
 *Samenvatting implementatie oevers*
 
-| \<icon1A\>       | \<icon2A\>          | \<icon3A\>                                 | \<icon4A\>/\<icon4B\>                                                       | \<icon5\>                                 |   |   |   |   |   |
+| <icon1A />       | <icon2A />          | \<icon3A\>                                 | \<icon4A\>/\<icon4B\>                                                       | \<icon5\>                                 |   |   |   |   |   |
 |------------------|---------------------|--------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|---|---|---|---|---|
 | Software voldoet | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht en/of na signalering of terugmelding | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
 
-\<icon1A\>
-
-![Approved Window icon](media/51e255cf9ca735d13ce814cb4190537d.png)
-
-Software voldoet
-
-\<icon1B\>
-
-![Code Window icon](media/4c12d0aee36ab140454736d3cbca9f4c.png)
-
-Software aanpassen op nieuwe classificaties
-
-\<icon2A\>
-
-![Data Search icon](media/3e7a602ebe38c76776a8a0eba4e83990.png)
-
-Centraal signaleren
-
-\<icon2B\>
-
-![Tripod 2 icon](media/d90734a4417d5c260354cbcc065fe438.png)
-
-Data inwinnen via reguliere bijhouding
-
-\<icon3A\>
-
-![Edit Map icon](media/d67b761a11e02641c4b79438ac558c58.png)
-
-Data decentraal aanpassen door bronhouders
-
-\<icon3B\>
-
-![Data Refresh icon](media/bcc6db15c559764f2caf8f68d454efe0.png)
-
-Data central converteren
-
-\<icon4A\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen met terugwerkende kracht
-
-\<icon4B\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen na signalering of terugmelding
-
-\<icon5A\>
-
-![Timer icon](media/35627a5d92e005a53a25950ea2b9207e.png)
-
-![Euro Sign 2 icon](media/88000ee2a4a6f611856e2315cc841b76.png)
-
-Tijd/Geld
-
-\<icon6A\>
-
-![Sand watch 2 icon](media/597a9db0358ca2af752b262a0bb08569.png)
-
-Doorlooptijd
