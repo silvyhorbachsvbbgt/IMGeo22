@@ -86,12 +86,18 @@ td:first-child {
 }
 
 
-icon1A {
+icon1a {
+	width: 64px;
+	height: 64px;
+	background-image: url("media/51e255cf9ca735d13ce814cb4190537d.png");
+	title: "Software voldoet";
+}
 
-width: 64px;
-height: 64px;
-background-image: url("media/51e255cf9ca735d13ce814cb4190537d.png");
-title: "Software voldoet";
+icon1b {
+	width: 64px;
+	height: 64px;
+	background-image: url("media/4c12d0aee36ab140454736d3cbca9f4c.png");
+	title: "Software aanpassen op nieuwe classificaties";
 }
 /* ![Approved Window icon](media/51e255cf9ca735d13ce814cb4190537d.png)
 
