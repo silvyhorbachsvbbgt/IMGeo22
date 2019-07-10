@@ -1,4 +1,4 @@
-# Bermen, oevers en andere terreindelen
+# Uniformeren bermen, oevers en andere terreindelen
 
 ## Huidige situatie en probleem
 
