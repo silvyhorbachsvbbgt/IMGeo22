@@ -3,13 +3,22 @@ betere aansluiting basis/plustopografie en beheertopografie
 
 ### Huidige situatie en probleem
 
-In de BGT of IMGeo kunnen
+In de BGT of IMGeo worden aan objecten subclassificaties toegekend, bijvoorbeeld
+een wegdeel krijgt als fysiek-voorkomen ‘gebakken klinkers’ bij ‘open
+verharding’, een bord krijgt type ‘verkeersbord’, of een paal krijgt type
+‘praatpaal’.
 
 Deze classificaties voorzien niet in alle wegen, terreinen, bouwwerken,
-kunstwerken, en andere objecten die in beheer zijn bij overheidsorganisatie. De
-basis- en plustopografie van IMGeo sluit hierdoor niet volledig aan op de
-beheertopografie. Als gevolg hiervan kunnen organisaties niet of moeilijk
-overgaan op een integrale beheerkaart gekoppeld aan de topografie van IMGeo.
+kunstwerken, borden, palen, installaties, straatmeubilair en andere objecten die
+in beheer zijn bij overheidsorganisatie. Als er geen classificatie in IMGeo
+beschikbaar.
+
+Bronhouders blijken dit massaal te doen: in de LV-BGT zitten enkele
+
+De beheertopografie kan dus niet voldoende/volledig aangesloten worden op de
+basis- en plustopografie van IMGeo. Als gevolg hiervan kunnen organisaties niet
+of moeilijk overgaan op een integrale beheerkaart gekoppeld aan de topografie
+van IMGeo.
 
 Samen met bronhouders, softwareleveranciers van BOR-afnemers en BGT-bronhouders,
 en CROW is een lijst opgesteld met nieuw classificaties voor IMGeo voor betere
