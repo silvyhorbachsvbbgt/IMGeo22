@@ -1,10 +1,6 @@
-Uniformeren
-===========
+# Bermen, oevers en andere terreindelen
 
-Bermen, oevers en andere terreindelen
--------------------------------------
-
-### Huidige situatie en probleem
+## Huidige situatie en probleem
 
 In de BGT kan een stuk terrein met gras worden afgebakend als berm, oever of
 groenvoorziening met gras- en kruidachtigen bij begroeidterreindeel. Bij een
@@ -35,7 +31,7 @@ Waterschappen hebben gevraagd om een talud-eis te toevoegen aan de
 afbakeningsregels van oevers om meer uniformiteit in de afbakening van
 ondersteunende waterdelen te bereiken.
 
-### Oplossing en nut
+## Oplossing en nut
 
 Om meer uniformiteit en consistentie in de afbakening van bermen, oevers en
 andere terreinen met gras- en kruidachtigen ossen te bereiken worden de volgende
@@ -82,7 +78,7 @@ De wijzigingen leveren de volgende voordelen op:
     van de BGT verbeterd. Dit geeft vertrouwen bij gebruikers in de kwaliteit
     van de BGT, en stimuleert het gebruik van de BGT.
 
-### Impact en implementatie
+## Impact en implementatie
 
 De impact van dit voorstel is relatief hoog: hoewel (bijna) alle gegevens
 beschikbaar zijn in de BGT en de software is reeds voorbereid, dienen de
