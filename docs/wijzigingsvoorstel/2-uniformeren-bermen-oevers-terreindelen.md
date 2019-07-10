@@ -41,10 +41,10 @@ Om meer uniformiteit en consistentie in de afbakening van bermen, oevers en
 andere terreinen met gras- en kruidachtigen ossen te bereiken worden de volgende
 wijzigingen voorgesteld:
 
--   De definitie van berm wordt uitgebreid naar: “bestemd voor het uitwijken van
+-   De definitie van berm wordt uitgebreid naar: _“bestemd voor het uitwijken van
     voertuigen in noodgevallen, het plaatsen van verkeersborden,
     reflectorpaaltjes en ander verkeersgeleidend meubilair, het verbinden van
-    zones voor fauna en/of andere ecologische infrastructurele waarden.”
+    zones voor fauna en/of andere ecologische infrastructurele waarden.”_
 
 -   Een berm wordt afgebakend tot maximaal 25 meter vanaf de kant van de weg.
     Een strook grond langs de weg dat breder is dan 25 meter wordt gesplitst in
@@ -101,13 +101,13 @@ De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 
 | <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
 |----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
-| Software aanpassen aan nieuwe classificaties | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost 225 tot 450 uur | Doorlooptijd van 1,5 jaar     |
+| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar     |
 
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elk (on)begroeid
 terreindeel direct grenzend aan water en op talud te beoordelen of deze conform
 de nieuwe regels als **oever** dient te worden afgebakend.
 
-<http://85.214.237.242/test/imgeo22/?categorie=oever>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=berm" class="view"></iframe>
 
 De terreindelen die worden omgezet van oever bij ondersteunend waterdeel of vice
 versa, krijgen een nieuwe identificatie omdat deze bij een andere objectklasse
@@ -121,7 +121,7 @@ opsporen en afbakenen van terreinen langs water die voldoen aan de
 
 *Samenvatting implementatie oevers*
 
-| <icon1A />       | <icon2A />          | \<icon3A\>                                 | \<icon4A\>/\<icon4B\>                                                       | \<icon5\>                                 |   |   |   |   |   |
-|------------------|---------------------|--------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|---|---|---|---|---|
-| Software voldoet | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht en/of na signalering of terugmelding | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
+| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ??? tot ??? uur | Doorlooptijd van 1 jaar     |
 
