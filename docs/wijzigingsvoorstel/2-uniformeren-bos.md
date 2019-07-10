@@ -61,7 +61,8 @@ Aan bronhouders wordt gevraagd om met terugwerkende kracht elk terreindeel met
 een classificatie bos dat afwijkt van classificatie van de BRT te controleren op
 juiste classificatie.
 
-<http://85.214.237.242/test/imgeo22/?categorie=bos>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=bos" class="view"></iframe>
+
 
 De terreindelen die een andere classificatie bos krijgen, behouden hun
 identificatie.
@@ -74,68 +75,6 @@ teruggegeven als melding richting bronhouders.
 
 *Samenvatting implementatie naaldbos, loofbos, gemengd bos.*
 
-| \<icon1B\>                                   | \<icon2A\>          | \<icon3A\>                                 | \<icon4A\>                             | \<icon5\>                                 |   |   |   |   |   |
-|----------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|---|---|---|---|
-| Software aanpassen aan nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
-
-\<icon1A\>
-
-![Approved Window icon](media/51e255cf9ca735d13ce814cb4190537d.png)
-
-Software voldoet
-
-\<icon1B\>
-
-![Code Window icon](media/4c12d0aee36ab140454736d3cbca9f4c.png)
-
-Software aanpassen op nieuwe classificaties
-
-\<icon2A\>
-
-![Data Search icon](media/3e7a602ebe38c76776a8a0eba4e83990.png)
-
-Centraal signaleren
-
-\<icon2B\>
-
-![Tripod 2 icon](media/d90734a4417d5c260354cbcc065fe438.png)
-
-Data inwinnen via reguliere bijhouding
-
-\<icon3A\>
-
-![Edit Map icon](media/d67b761a11e02641c4b79438ac558c58.png)
-
-Data decentraal aanpassen door bronhouders
-
-\<icon3B\>
-
-![Data Refresh icon](media/bcc6db15c559764f2caf8f68d454efe0.png)
-
-Data central converteren
-
-\<icon4A\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen met terugwerkende kracht
-
-\<icon4B\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen na signalering of terugmelding
-
-\<icon5A\>
-
-![Timer icon](media/35627a5d92e005a53a25950ea2b9207e.png)
-
-![Euro Sign 2 icon](media/88000ee2a4a6f611856e2315cc841b76.png)
-
-Tijd/Geld
-
-\<icon6A\>
-
-![Sand watch 2 icon](media/597a9db0358ca2af752b262a0bb08569.png)
-
-Doorlooptijd
+| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar     |
