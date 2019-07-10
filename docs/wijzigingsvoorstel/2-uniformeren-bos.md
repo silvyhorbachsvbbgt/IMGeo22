@@ -63,7 +63,6 @@ juiste classificatie.
 
 <iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=bos" class="view"></iframe>
 
-
 De terreindelen die een andere classificatie bos krijgen, behouden hun
 identificatie.
 
