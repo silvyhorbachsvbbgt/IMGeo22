@@ -92,7 +92,7 @@ Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht alle **boomspiegels** om te zetten van
 Weginrichtingselement naar BegroeidTerreindeel.
 
-<http://85.214.237.242/test/imgeo22/?categorie=vervallen-boomspiegel>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=boomspiegel" class="view"></iframe>
 
 De boomspiegels worden eventueel van punt- naar vlakgeometrie omgezet, en
 krijgen een nieuwe identificatie, omdat deze bij een andere objectklasse worden
@@ -100,9 +100,9 @@ opgenomen
 
 *Samenvatting implementatie boomspiegels.*
 
-| \<icon1B\>                                  | \<icon2A\>          | \<icon3A\>                                 | \<icon4A\>                             | \<icon5\>                                 |   |   |   |   |   |
-|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|---|---|---|---|
-| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlo6\>ptijd implementatie van 1,5 jaar |   |   |   |   |   |
+| <icon class="software-aanpassen"/>           | <icon class="centraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="terugwerkende-kracht" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
+|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
+| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
 
 Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht de **haagvakken** zijnde terreindelen onder een
@@ -110,7 +110,7 @@ vegetatieobject ‘haag’ om te zetten naar BegroeidTerreindeel met
 fysiek-voorkomen ‘groenvoorziening’ en optioneel het plus-fysiekvoorkomen
 ‘haagvak’.
 
-<http://85.214.237.242/test/imgeo22/?categorie>=
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=haagvak" class="view"></iframe>
 
 Terreindelen die niet als BegroeidTerreindeel zijn opgenomen krijgen daarmee
 mogelijk een nieuwe identificatie, omdat deze bij een andere objectklasse worden
@@ -118,83 +118,21 @@ opgenomen.
 
 *Samenvatting implementatie haagvakken*
 
-| \<icon1B\>                                  | \<icon2A\>          | \<icon3B\>                                 | \<icon4A\>                             | \<icon6\>                               |   |   |   |   |   |
-|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-----------------------------------------|---|---|---|---|---|
-| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Doorlooptijd implementatie van 1,5 jaar |   |   |   |   |   |
+| <icon class="software-aanpassen"/>           | <icon class="centraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="terugwerkende-kracht" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
+|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
+| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
 
 Voor uitsparingen van **stedelijk groen in wegdelen kleiner dan 5m2** is de
 verwachting dat deze (bijna) allemaal zijn opgenomen als
 BegroeidTerreindeel:groenvoorziening of als Weginrichtingselement:boomspiegel.
 Zeker na het omzetten van boomspiegels naar BegroeidTerreindeel:groenvoorziening
 moet een volledig beeld van alle kleine uitsparingen in stedelijk groen
-beschikbaar zijn. Aan bronhouders wordt niet gevraagd om ook actief
+beschikbaar zijn. Aan bronhouders wordt dus niet gevraagd om ook actief alle uitsparingen in stedelijk groen kleiner dan 5m2 op te sporen en toevoegen, maar dit mee nemen in de reguliere bijhouding.
 
-<http://85.214.237.242/test/imgeo22/?categorie=stedelijkgroen>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=stedelijkgroen" class="view"></iframe>
 
 *Samenvatting implementatie stedelijk groen*
 
-| \<icon1A\>       | \<icon2A\>                             | \<icon3B\>                                 | \<icon4B\>                                    | \<icon56\>                            |   |   |   |   |   |
-|------------------|----------------------------------------|--------------------------------------------|-----------------------------------------------|---------------------------------------|---|---|---|---|---|
-| Software voldoet | Data inwinnen via reguliere bijhouding | Data decentraal aanpassen door bronhouders | Data aanpassen na signalering of terugmelding | Doorlooptijd implementatie van 2 jaar |   |   |   |   |   |
-
-\<icon1A\>
-
-![Approved Window icon](media/51e255cf9ca735d13ce814cb4190537d.png)
-
-Software voldoet
-
-\<icon1B\>
-
-![Code Window icon](media/4c12d0aee36ab140454736d3cbca9f4c.png)
-
-Software aanpassen op nieuwe classificaties
-
-\<icon2A\>
-
-![Data Search icon](media/3e7a602ebe38c76776a8a0eba4e83990.png)
-
-Centraal signaleren
-
-\<icon2B\>
-
-![Tripod 2 icon](media/d90734a4417d5c260354cbcc065fe438.png)
-
-Data inwinnen via reguliere bijhouding
-
-\<icon3A\>
-
-![Edit Map icon](media/d67b761a11e02641c4b79438ac558c58.png)
-
-Data decentraal aanpassen door bronhouders
-
-\<icon3B\>
-
-![Data Refresh icon](media/bcc6db15c559764f2caf8f68d454efe0.png)
-
-Data central converteren
-
-\<icon4A\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen met terugwerkende kracht
-
-\<icon4B\>
-
-![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
-
-Data aanpassen na signalering of terugmelding
-
-\<icon5A\>
-
-![Timer icon](media/35627a5d92e005a53a25950ea2b9207e.png)
-
-![Euro Sign 2 icon](media/88000ee2a4a6f611856e2315cc841b76.png)
-
-Tijd/Geld
-
-\<icon6A\>
-
-![Sand watch 2 icon](media/597a9db0358ca2af752b262a0bb08569.png)
-
-Doorlooptijd
+| <icon class="software-voldoet"/>           | <icon class="decentraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="signalering-terugmelding" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
+|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
+| Software voldoet | Implementatie in verlengde van beheer |  Doorlooptijd 2 jaar  |
