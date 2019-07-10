@@ -1,8 +1,8 @@
 Uniformeren
 ===========
 
-Bermen, oevers en andere (on)begroeide terreinen
-------------------------------------------------
+Bermen, oevers en andere terreindelen
+-------------------------------------
 
 ### Huidige situatie en probleem
 
@@ -107,7 +107,7 @@ Aan bronhouders wordt gevraagd om met terugwerkende kracht elk (on)begroeid
 terreindeel direct grenzend aan water en op talud te beoordelen of deze conform
 de nieuwe regels als **oever** dient te worden afgebakend.
 
-<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=berm" class="view"></iframe>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=oever" class="view"></iframe>
 
 De terreindelen die worden omgezet van oever bij ondersteunend waterdeel of vice
 versa, krijgen een nieuwe identificatie omdat deze bij een andere objectklasse
