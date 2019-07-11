@@ -95,11 +95,11 @@ De boomspiegels worden eventueel van punt- naar vlakgeometrie omgezet, en
 krijgen een nieuwe identificatie, omdat deze bij een andere objectklasse worden
 opgenomen
 
-*Samenvatting implementatie boomspiegels*
+*Samenvatting implementatie aanpassen*
 
-| <icon class="software-aanpassen"/>           | <icon class="centraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="terugwerkende-kracht" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
-|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
-| Software aanpassen  | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
+| <icon class="software-aanpassen" /> | <icon class="centraal-signaleren" /> | <icon class="decentraal-omzetten" /> | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />  |<icon class="doorlooptijd" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software aanpassen | Centraal signaleren                           | Decentraal omzetten                | Met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar   |
 
 Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht de **haagvakken** zijnde terreindelen onder een
@@ -115,9 +115,9 @@ opgenomen.
 
 *Samenvatting implementatie haagvakken*
 
-| <icon class="software-aanpassen"/>           | <icon class="centraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="terugwerkende-kracht" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
-|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
-| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
+| <icon class="software-aanpassen" /> | <icon class="centraal-signaleren" /> | <icon class="decentraal-omzetten" /> | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />  |<icon class="doorlooptijd" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software aanpassen | Centraal signaleren                           | Decentraal omzetten                | Met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar   |
 
 Voor uitsparingen van **stedelijk groen in wegdelen kleiner dan 5m2** is de
 verwachting dat deze (bijna) allemaal zijn opgenomen als
@@ -130,6 +130,6 @@ beschikbaar zijn. Aan bronhouders wordt dus niet gevraagd om ook actief alle uit
 
 *Samenvatting implementatie stedelijk groen*
 
-| <icon class="software-voldoet"/>           | <icon class="decentraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="signalering-terugmelding" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
-|---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
-| Software voldoet | Implementatie in verlengde van beheer |  Doorlooptijd 2 jaar  |
+| <icon class="software-voldoet" /> | <icon class="decentraal-signaleren" /> | <icon class="nvt" /> | <icon class="signalering-terugmelding" />  | <icon class="nvt" />  |<icon class="nvt" />  | 
+|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
+| Software voldoet | Meenemen in reguliere bijhouding       | Omzetten geen actie        | Na signalering of terugmelding | Implementatietijd n.v.t. | Doorlooptijd n.v.t.   |
