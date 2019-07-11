@@ -1,8 +1,5 @@
-Uitbreiden
-==========
-
-Gegevens voor inzet hulpdiensten
---------------------------------
+Uitbreiden met gegevens voor hulpdiensten
+=========================================
 
 ### Huidige situatie en probleem
 
@@ -13,9 +10,10 @@ In de BGT worden erven
 Om te voorzien in de informatiebehoefte van hulpdiensten voor de inzet van
 hulpdiensten, worden de volgende wijzigingen voorgesteld:
 
--   In ontwerpprincipes ToDo…
+-   IMGeo wordt uitgebreid met ‘trailerhelling’ als nadere detaillering van
+    ‘rijbaan lokale weg’ bij Wegdeel.
 
--   .
+-   IMGeo wordt uitgebreid met ‘opstelpunt open water’ bij Functioneel Gebied.
 
 De wijzigingen leveren de volgende voordelen op:
 
@@ -27,6 +25,10 @@ De wijzigingen leveren de volgende voordelen op:
 
 ### Impact en implementatie
 
-De impact van dit voorstel is laag: niet alle gegevens zijn beschikbaar in de
-BGT, de software is wel voorbereid. Voor de implementatie mag data worden
-toegevoegd.
+De impact van dit voorstel is laag: bronhouders bepalen zelf of zij deze
+gegevens opnemen in IMGeo. Voor de implementatie moet eerst de software worden
+aangepast, en mag daarna data worden toegevoegd.
+
+Gezien de maatschappelijke relevantie wordt bronhouders opgeroepen om zoveel van
+deze informatie wel op te nemen in IMGeo en aan te leveren aan de LV-BGT, echter
+dit is niet verplicht.

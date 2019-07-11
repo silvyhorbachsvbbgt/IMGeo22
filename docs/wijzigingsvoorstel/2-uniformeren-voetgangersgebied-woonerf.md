@@ -1,8 +1,5 @@
-Uniformeren
-===========
-
-Voetgangersgebied en woonerf
-----------------------------
+Uniformeren wegdelen in voetgangersgebied en woonerf
+====================================================
 
 ### Huidige situatie en probleem
 
@@ -93,11 +90,15 @@ functionele gebieden, omdat deze bij een andere objectklasse worden opgenomen.
 
 ![Approved Window icon](media/51e255cf9ca735d13ce814cb4190537d.png)
 
+Approved Window icon
+
 Software voldoet
 
 \<icon1B\>
 
 ![Code Window icon](media/4c12d0aee36ab140454736d3cbca9f4c.png)
+
+Code Window icon
 
 Software aanpassen op nieuwe classificaties
 
@@ -105,11 +106,15 @@ Software aanpassen op nieuwe classificaties
 
 ![Data Search icon](media/3e7a602ebe38c76776a8a0eba4e83990.png)
 
+Data Search icon
+
 Centraal signaleren
 
 \<icon2B\>
 
 ![Tripod 2 icon](media/d90734a4417d5c260354cbcc065fe438.png)
+
+Tripod 2 icon
 
 Data inwinnen via reguliere bijhouding
 
@@ -117,11 +122,15 @@ Data inwinnen via reguliere bijhouding
 
 ![Edit Map icon](media/d67b761a11e02641c4b79438ac558c58.png)
 
+Edit Map icon
+
 Data decentraal aanpassen door bronhouders
 
 \<icon3B\>
 
 ![Data Refresh icon](media/bcc6db15c559764f2caf8f68d454efe0.png)
+
+Data Refresh icon
 
 Data central converteren
 
@@ -129,11 +138,15 @@ Data central converteren
 
 ![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
 
+Forward icon
+
 Data aanpassen met terugwerkende kracht
 
 \<icon4B\>
 
 ![Forward icon](media/9cd5ddd8e03eb4a08f10fa67032369fc.png)
+
+Forward icon
 
 Data aanpassen na signalering of terugmelding
 
@@ -141,12 +154,18 @@ Data aanpassen na signalering of terugmelding
 
 ![Timer icon](media/35627a5d92e005a53a25950ea2b9207e.png)
 
+Timer icon
+
 ![Euro Sign 2 icon](media/88000ee2a4a6f611856e2315cc841b76.png)
+
+Euro Sign 2 icon
 
 Tijd/Geld
 
 \<icon6A\>
 
 ![Sand watch 2 icon](media/597a9db0358ca2af752b262a0bb08569.png)
+
+Sand watch 2 icon
 
 Doorlooptijd
