@@ -95,9 +95,9 @@ De bermen die worden gesplitst, behouden hun identificatie. De nieuwe
 
 *Samenvatting implementatie bermen*
 
-| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
+| <icon class="software-voldoet" /> | <icon class="centraal-signaleren" /> | <icon class="decentraal-omzetten" /> | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />  |<icon class="doorlooptijd" />  | 
 |----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
-| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar     |
+| Software voldoet | Centraal signaleren                           | Decentraal omzetten                | Met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar   |
 
 Aan bronhouders wordt gevraagd om met terugwerkende kracht elk (on)begroeid
 terreindeel direct grenzend aan water en op talud te beoordelen of deze conform
@@ -117,7 +117,7 @@ opsporen en afbakenen van terreinen langs water die voldoen aan de
 
 *Samenvatting implementatie oevers*
 
-| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
+| <icon class="software-voldoet" /> | <icon class="centraal-signaleren" /> | <icon class="decentraal-omzetten" /> | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />  |<icon class="doorlooptijd" />  | 
 |----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
-| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ??? tot ??? uur | Doorlooptijd van 1 jaar     |
+| Software voldoet | Centraal signaleren                           | Decentraal omzetten                | Met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar   |
 
