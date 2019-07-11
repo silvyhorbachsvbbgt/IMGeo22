@@ -89,17 +89,17 @@ Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht alle **boomspiegels** om te zetten van
 Weginrichtingselement naar BegroeidTerreindeel.
 
-<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=boomspiegel" class="view"></iframe>
+<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=vervallen-boomspiegel" class="view"></iframe>
 
 De boomspiegels worden eventueel van punt- naar vlakgeometrie omgezet, en
 krijgen een nieuwe identificatie, omdat deze bij een andere objectklasse worden
 opgenomen
 
-*Samenvatting implementatie boomspiegels.*
+*Samenvatting implementatie boomspiegels*
 
 | <icon class="software-aanpassen"/>           | <icon class="centraal-signaleren" />     | <icon class="decentraal-aanpassen" />                                 | <icon class="terugwerkende-kracht" />                             | <icon class="tijd-geld" /> | <icon class="doorlooptijd" />                                 |   |   |   |   |   |
 |---------------------------------------------|---------------------|--------------------------------------------|----------------------------------------|-------------------------------------------|---|
-| Software aanpassen op nieuwe classificaties | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
+| Software aanpassen  | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur |  Doorlooptijd implementatie van 1 jaar  |
 
 Na het aanpassen van de software wordt aan bronhouders gevraagd om met
 terugwerkende kracht de **haagvakken** zijnde terreindelen onder een
