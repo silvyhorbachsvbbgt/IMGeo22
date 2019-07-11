@@ -1,7 +1,4 @@
-Uniformeren
-===========
-
-Boomspiegels, haagvakken en uitsparingen stedelijk groen in wegdelen
+Uniformeren boomspiegels, haagvakken en uitsparingen stedelijk groen in wegdelen
 --------------------------------------------------------------------
 
 ### Huidige situatie en probleem
