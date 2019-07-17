@@ -1,8 +1,5 @@
-Uniformeren
-===========
-
-Naaldbos, loofbos en gemengd bos
---------------------------------
+Uniformeren naaldbos, loofbos en gemengd bos
+============================================
 
 ### Huidige situatie en probleem
 
@@ -61,8 +58,6 @@ Aan bronhouders wordt gevraagd om met terugwerkende kracht elk terreindeel met
 een classificatie bos dat afwijkt van classificatie van de BRT te controleren op
 juiste classificatie.
 
-<iframe src="https://imgeo22.gewoongoedegeodata.nl/?view=bos" class="view"></iframe>
-
 De terreindelen die een andere classificatie bos krijgen, behouden hun
 identificatie.
 
@@ -74,6 +69,6 @@ teruggegeven als melding richting bronhouders.
 
 *Samenvatting implementatie naaldbos, loofbos, gemengd bos.*
 
-| <icon class="software-aanpassen" />          | <icon class="centraal-signaleren" />          | <icon class="centraal-omzetten" />                        | <icon class="terugwerkende-kracht" />  | <icon class="tijd-geld" />         |<icon class="doorlooptijd" />  | 
-|----------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------|------------------------------------|-------------------------------|
-| Software voldoet | Centraal signaleren                           | Data decentraal aanpassen door bronhouders                | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar     |
+| Software voldoet | Centraal signaleren | Data decentraal aanpassen door bronhouders | Data omzetten met terugwerkende kracht | Implementatie kost ?? tot ?? uur | Doorlooptijd van 1 jaar |
+|------------------|---------------------|--------------------------------------------|----------------------------------------|----------------------------------|-------------------------|
+
